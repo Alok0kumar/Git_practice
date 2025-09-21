@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 
@@ -6,6 +6,4 @@
 
 
 
-=======
-## This is b1 branch
->>>>>>> b1
+## This is b1 branch 
